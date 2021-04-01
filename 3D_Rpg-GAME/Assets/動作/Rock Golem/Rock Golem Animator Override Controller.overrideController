@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rock Golem Animator Override Controller
+  m_Controller: {fileID: 9100000, guid: b1ed05298fb8ee24e8b93c9a05a51e9e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 40618cea0666eba46b51cdf08276a3c9, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 282e9dcf8da575e4ebaab99362b71269, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 9639f8be10868e747bd584f6a0b671cb, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 8ffb84c08cd421e45b78a704cb310731, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b0771d6a582a9004eabe06303c7ad169, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 512ee724f2f668441a62146ba7005f86, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 371138a6b01d2e44ca62deeb9e6f2e92, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: c85ea2a4771c53b48913c8e40ea0c845, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c30878a72fbd54c408679fca0f3b8bed, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 8d6723f3fc4156e43a958304b2527e3e, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 74772a551bbf73f4bba06a5669806ea8, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: cdf7d04a3d2c3254e9e664e4f782cad6, type: 3}
